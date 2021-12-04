@@ -1,3 +1,7 @@
+/*Nome: Felipe Augusto Pessôa Vianna
+  Matrícula: 0050017091
+*/
+
 import sqlite3 from 'sqlite3';
 
 const DATABASE_PATH = './src/database/game.sqlite';
